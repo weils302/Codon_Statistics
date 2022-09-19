@@ -5,6 +5,9 @@
 
 line4 ```f = open("")``` のところで読み込むファイル名を入力。
 
+<br>  
+
 ***コドン表の例***  
 
 ![コドン表の例](https://www.toho-u.ac.jp/sci/biomol/glossary/bio/j5mt8h000000dkv7-img/codon.jpg)
+引用元:https://www.toho-u.ac.jp/sci/biomol/glossary/bio/genetic_code.html
